@@ -1,0 +1,9 @@
+{
+  "version": "wifi-1.0.0",
+  "mode": "Home Wi-Fi with Mac relay",
+  "full_sha256": "aaff50ee82d3b56cc47518df02854560a27c3ca4d7f9f03d2b877347dbb445a1",
+  "app_sha256": "60542c0010f506c946525c5dd3bc9e414f5dfbe1318251e7a46917a28598944d",
+  "validation": "Firmware gate passed; device photos confirmed live video, numerical orbit data and three pages",
+  "firmware_basis": "https://github.com/FoloToy/ai-passport",
+  "outdoor_features": false
+}
